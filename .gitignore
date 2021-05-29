@@ -24,6 +24,12 @@ ProjectSettings/UnityConnectSettings.asset
 
 **/DocGen/Temp/
 
+# =============== #
+# Rider generated #
+# =============== #
+
+.idea/
+
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
