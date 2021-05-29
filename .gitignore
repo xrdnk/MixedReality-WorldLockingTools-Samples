@@ -10,6 +10,8 @@ Temp/
 Il2CppOutputProject/
 bin/
 obj/
+Build/
+
 
 WSATestCertificate.pfx
 WSATestCertificate.pfx.meta
