@@ -634,11 +634,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: WLT-QRSpacePinsExtension
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\xrdnk\Desktop\LearningProject\MixedReality-WorldLockingTools-Samples\Advanced\QRSpacePins\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: Denik
+  metroCertificateIssuer: Denik
+  metroCertificateNotAfter: 8021594e7d73d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
